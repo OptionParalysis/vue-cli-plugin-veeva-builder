@@ -1,0 +1,32 @@
+{
+  "name": "vue-cli-plugin-veeva-builder",
+  "version": "1.0.1",
+  "author": "option paralysis",
+  "description": "vue-cli 3 plugin to help developing with Veeva CRM",
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/OptionParalysis/vue-cli-plugin-veeva-builder.git"
+  },
+  "homepage": "https://github.com/OptionParalysis/vue-cli-plugin-veeva-builder#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "push": "yarn unlink || yarn publish"
+  },
+  "dependencies": {
+    "@vue/cli-service": "^3.0.0-rc.3",
+    "@vue/cli-shared-utils": "^3.0.0-rc.3",
+    "archiver": "^2.1.1",
+    "chalk": "^2.4.1",
+    "cyrillic-to-translit-js": "^2.1.0",
+    "delete-empty": "^2.0.0",
+    "ejs": "^2.6.1",
+    "excel-as-json": "^2.0.2",
+    "fs-explorer-ui": "^1.0.8",
+    "fs-extra": "^6.0.1",
+    "nightmare": "^3.0.1",
+    "rimraf": "^2.6.2",
+    "sharp": "^0.20.3",
+    "webpack": "^4.8.2"
+  }
+}
