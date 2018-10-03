@@ -72,7 +72,7 @@ This is a vue-cli 3.x plugin to help developing with MI Touch, Pharma Touch and 
    [**Create with preset**](https://cli.vuejs.org/guide/plugins-and-presets.html#remote-presets): 
    
    ```
-   vue create --preset serhiichuk/vue-preset-clm my-project
+   vue create --preset OptionParalysis/vue-preset-clm my-project
    ```
    
    Or [**create**](https://cli.vuejs.org/guide/creating-a-project.html) manually new project with following **features**: `router`, `vuex`, `babel`, `scss`, and add plugin to your project. 
